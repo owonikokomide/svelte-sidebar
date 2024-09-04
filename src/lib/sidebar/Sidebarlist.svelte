@@ -3,7 +3,7 @@
   export let icon;
 import Icon from "@iconify/svelte";
 </script>
-
+ 
 <div class="container">
   <div class="list">
     <div class="icon-text">
