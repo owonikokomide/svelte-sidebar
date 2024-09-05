@@ -5,7 +5,7 @@ import Icon from "@iconify/svelte";
 </script>
  
 <div class="container">
-  <div class="list">
+  <div class="list"> 
     <div class="icon-text">
       <Icon {icon} />
       <p>{title}</p>
