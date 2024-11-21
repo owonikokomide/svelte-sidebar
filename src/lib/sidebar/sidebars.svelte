@@ -6,7 +6,7 @@ import Icon from "@iconify/svelte";
 
     function toggleDropdown(item) {
         activeItem = activeItem === item ? null : item;
-    }
+    } 
 
     // Create a new Date object
     let date = new Date();
