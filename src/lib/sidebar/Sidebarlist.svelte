@@ -2,7 +2,7 @@
   export let title;
   export let icon;
 import Icon from "@iconify/svelte";
-</script>
+</script> 
  
 <div class="container">
   <div class="list"> 
